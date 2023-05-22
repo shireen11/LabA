@@ -1,0 +1,30 @@
+.studentLogin{
+    font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+    border-style: solid;
+    margin-left: 35%;
+    margin-right:35%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: rgb(224, 196, 32);
+}
+.studentLoginH3 {
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+}
+
+.studentLoginButton{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:rgb(201, 211, 201);
+    width: 100px;
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 7px;
+}
+
+.studentLoginButton:hover {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(186, 231, 186);
+}

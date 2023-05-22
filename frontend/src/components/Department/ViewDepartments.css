@@ -1,0 +1,27 @@
+.ViewDepartmentCss table {
+  border-collapse: collapse;
+  /* border-style: solid; */
+  /* background-color: #c0eec0; */
+  background-color:rgb(224, 196, 32);
+  font-family:"times new roman";
+}
+
+.ViewDepartmentCss td {
+  border-style: solid;
+  text-align: center;
+  border-color: white;
+  border-width: 1px;
+  padding: 10px;
+  background-color:rgb(224, 196, 32);
+}
+
+.ViewDepartmentCssHeader td {
+  padding: 10px;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+  /* background-color: #63f163; */
+  background-color:rgb(224, 196, 32);
+  font-family:"times new roman";
+  
+}

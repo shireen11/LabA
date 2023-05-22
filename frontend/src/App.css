@@ -1,0 +1,67 @@
+body {
+  background-color: #000000;
+}
+
+.container {
+  
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.facultyLogin {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(224, 196, 32);
+  border-radius: 5px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  
+}
+.facultyLoginH3 {
+  font-family:'Times New Roman', Times, serif;
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+  
+}
+
+.facultyLoginButton {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(186, 231, 186);
+  width: 100px;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+}
+
+.facultyLoginButton:hover {
+  background-color: rgb(224, 196, 32);
+}
+
+.studentLogin {
+  text-align: center;
+  background-color: rgb(224, 196, 32);
+  border-radius: 5px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.studentLoginH3 {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+}
+
+.studentLoginButton {
+  background-color: rgb(85, 233, 109);
+  width: 100px;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+}
+
+.studentLoginButton:hover {
+  background-color: rgb(186, 231, 186);
+}

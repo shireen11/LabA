@@ -1,0 +1,29 @@
+.ViewCoursesCss table {
+  border-collapse: collapse;
+  /* border-style: solid; */
+  /* background-color: #c0eec0; */
+  background-color: rgb(179, 214, 214);
+  font-family: 'Times New Roman', Times, serif;
+  -webkit-text-fill-color: aliceblue;
+}
+/* backgroundColor:"rgb(224, 196, 32)", fontFamily:"times new roman" */
+.ViewCoursesCss td {
+  border-style: solid;
+  text-align: center;
+  border-color: white;
+  border-width: 1px;
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+
+.ViewCoursesCssHeader td {
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+  font-size: large;
+  text-align: center;
+  font-weight: bold;
+  /* background-color: #63f163; */
+  background-color:"rgb(224, 196, 32)";
+  color: white;
+}

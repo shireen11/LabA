@@ -1,0 +1,15 @@
+img {
+  width: 50%;
+  margin-left: 24%;
+  margin-right: 20%;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(224, 196, 32);
+}
+
+.homeImg {
+  margin-left: 15%;
+  margin-right: 15%;
+  -webkit-text-fill-color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  
+}

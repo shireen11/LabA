@@ -1,0 +1,27 @@
+.newDepartment {
+  text-align: center;
+  background-color:rgb(224, 196, 32);
+  font-family:"times new roman";
+  border-radius: 5px;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.newDepartmentH3 {
+  display: inline-block;
+  width: 170px;
+  text-align: left;
+  background-color:rgb(224, 196, 32);
+  font-family:"times new roman";
+}
+.newDepartmentButton {
+  background-color: rgb(193, 204, 195);
+  margin-bottom: 20px;
+  width: 100px;
+  height: 30px;
+  border-radius: 7px;
+}
+.newDepartmentButton:hover {
+  background-color: rgb(186, 231, 186);
+}
